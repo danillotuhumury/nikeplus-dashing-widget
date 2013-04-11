@@ -1,0 +1,1 @@
+class Dashing.Nikeplus extends Dashing.Widget
