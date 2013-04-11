@@ -1,6 +1,6 @@
 # Nike+ Dashing widget.
 
-[Nike+](http://nikeplus.nike.com/plus/) widget for [Dashing](http://shopify.github.com/dashing), which uses the [Nike](https://rubygems.org/gems/nike_v2) gem by [Eric Harrison](https://github.com/fuelxc). It displays your last activity data (NikeFuel points, calories, distance and duration). Examples of the widget can be viewed [below](https://github.com/danillotuhumury/nikeplus-dashing-widget#preview).
+[Nike+](http://nikeplus.nike.com/plus/) widget for [Dashing](http://shopify.github.com/dashing), which uses the [Nike](https://rubygems.org/gems/nike_v2) gem by [Eric Harrison](https://github.com/fuelxc). It displays your last activity data (NikeFuel points, calories, distance and duration). All of the previously mentioned options are shown in a slideshow. Examples of the widget can be viewed [below](https://github.com/danillotuhumury/nikeplus-dashing-widget#preview).
 
 ## Dependencies
 
